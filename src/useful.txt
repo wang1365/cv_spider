@@ -1,0 +1,64 @@
+mvn -DskipTests package
+du -h --max-depth=1 .
+
+https://passport.liepin.com/e/account/#sfrom=click-pc_homepage-front_navigation-ecomphr_new
+anehr anelp888
+
+
+demo.zhimazhaopin.com
+250310121@qq.com 111111
+
+http://zhimazhaopin.com/
+70740094@qq.com
+111111
+
+
+ssh -l root -P22  115.29.172.30
+passwd: 9ic5Ocb8p1
+
+42.121.88.239
+115.29.248.35
+
+
+ctrl+shift+2
+
+ssh -l root -P22  112.124.108.253
+9ic5Ocb8p1
+Yangzhiwei123
+
+103.21.119.96：7710
+User:Administrator 
+Pwd:
+9ic5Ocb8p1
+
+前程无忧：
+安能聚业
+上海安能聚创供应链
+aneqc888
+
+猎聘：
+anehr anejtlp888
+
+智联：
+38288551 anezl888
+
+智联账号anhui-200密码2016jianli
+
+前程：
+会员名：zhuocheng763     
+用户名：zhuo427
+密  码：abc123
+
+猎聘：
+唯捷配送@wj5656
+
+
+快代理
+798197142@qq.com 
+111111
+
+[users]
+# harry = harryssecret
+# sally = sallyssecret
+work = work2015
+rd = rd2015
